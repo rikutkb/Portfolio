@@ -1,14 +1,21 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
+  <div>
+    <portfolioheader></portfolioheader>
+    <div id="app">
+      <router-view/>
+    </div>
   </div>
 </template>
-
 <script>
+import portfolioheader from '@/components/molecules/header.vue'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    portfolioheader
+  }
 }
+
 </script>
 
 <style>
