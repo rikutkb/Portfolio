@@ -15,20 +15,21 @@
       </b-card>
       <b-card
         title="PDCAアプリ"
-        img-alt="Image"
-        img-top
         tag="article"
         class="mb-12"
       >
-        <b-card-text>
-          達成したい目標の分析とPDCAサイクルのサポートを行うことによって目標の達成を手伝います。<br>
-          説明:<br>
-          バックエンドはnodeを使用してRESTAPIを作成。
-          フロントエンドはVueを使用して作成<br>
-          制作期間:二ヶ月<br>
-          個人制作<br>
+        <b-card-body>
+          <img src="../../assets/PDCA.png" width="300">
+          <b-card-text>
+            達成したい目標の分析とPDCAサイクルのサポートを行うことによって目標の達成を手伝います。<br>
+            説明:<br>
+            バックエンドはnodeを使用してRESTAPIを作成。
+            フロントエンドはVueを使用して作成<br>
+            制作期間:二ヶ月<br>
+            個人制作<br>
 
-        </b-card-text>
+          </b-card-text>
+        </b-card-body>
 
         <b-button href="https://pdcaapp.herokuapp.com/" variant="dark">PDCAアプリ</b-button>
       </b-card>
