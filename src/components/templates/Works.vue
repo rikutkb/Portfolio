@@ -38,7 +38,25 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/uCBmDeAGe44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       </b-card>
+      <b-card
+        title="Theatalk(チャットアプリ)(チーム開発)"
+        tag="article"
+        class="mb-12"
+      >
+        <b-card-text>
+          共通の趣味をもった知らない人同志で一緒にチャットができるアプリです.<br>
+            説明:
+            バックエンドはrailsAPIを使用してRESTAPIを作成。
+            iosアプリは開発中<br>
+            制作期間:3か月<br>
+            チーム開発(バックエンドとiosアプリ開発担当)<br>
 
+            ソースコード(backend):<b-button href="https://github.com/WhiteTshirts/theatalk_backend" variant="primary">バックエンド</b-button><br>
+            ソースコード(ios):<b-button href="https://github.com/WhiteTshirts/theatalk_ios" variant="success">ios</b-button>
+
+        </b-card-text>
+
+      </b-card>
     </div>
 
   </div>
