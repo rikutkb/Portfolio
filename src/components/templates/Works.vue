@@ -32,7 +32,13 @@
         </b-card-body>
 
         <b-button href="https://pdcaapp.herokuapp.com/" variant="dark">PDCAアプリ</b-button>
+        <br>
+        <br>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/uCBmDeAGe44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
       </b-card>
+
     </div>
 
   </div>
