@@ -55,7 +55,8 @@
             ソースコード(ios):<b-button href="https://github.com/WhiteTshirts/theatalk_ios" variant="success">ios</b-button>
 
         </b-card-text>
-
+        <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dxB64xdkbvs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </b-card>
     </div>
 
