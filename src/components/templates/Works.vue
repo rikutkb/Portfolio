@@ -58,6 +58,21 @@
         <br>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/dxB64xdkbvs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </b-card>
+
+      <b-card
+        title="夢日記アプリ"
+        tag="article"
+        class="mb-12"
+      >
+        <b-card-text>
+          夢日記に対して場所や人物のタグをつけることによって、逆引きで夢を検索ができるアプリです。
+          ソースコード:<b-button href="https://github.com/rikutkb/dairy_dream" variant="primary">github</b-button><br>
+
+        </b-card-text>
+
+        <b-button href="https://www.theatalk.work/dream_app" variant="dark">夢日記</b-button>
+
+      </b-card>
     </div>
 
   </div>
