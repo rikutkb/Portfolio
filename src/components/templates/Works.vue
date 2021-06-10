@@ -64,6 +64,8 @@
         tag="article"
         class="mb-12"
       >
+        <img src="../../assets/dream1.png" width="600">
+
         <b-card-text>
           夢日記に対して場所や人物のタグをつけることによって、逆引きで夢を検索ができるアプリです。
           ソースコード:<b-button href="https://github.com/rikutkb/dairy_dream" variant="primary">github</b-button><br>
