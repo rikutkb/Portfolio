@@ -23,8 +23,9 @@
           <b-card-text>
             達成したい目標の分析とPDCAサイクルのサポートを行うことによって目標の達成を手伝います。<br>
             説明:<br>
-            バックエンドはnodeを使用してRESTAPIを作成。
-            フロントエンドはVueを使用して作成<br>
+            バックエンドはnodeを使用してRESTAPIを作成。<b-button href="https://github.com/rikutkb/PDCA_app" variant="dark">ソースコード</b-button>
+
+            フロントエンドはVueを使用して作成<b-button href="https://github.com/rikutkb/PDCAFront" variant="dark">ソースコード</b-button><br>
             制作期間:二ヶ月<br>
             個人制作<br>
 
