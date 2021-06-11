@@ -72,7 +72,7 @@
 
         </b-card-text>
 
-        <b-button href="https://www.theatalk.work/dream_app" variant="dark">夢日記</b-button>
+        <b-button href="http://www.theatalk.work:3300/dream_app" variant="dark">夢日記</b-button>
 
       </b-card>
     </div>
